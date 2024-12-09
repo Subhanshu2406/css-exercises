@@ -1,0 +1,12 @@
+.second,.first{
+    font-size: 28;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#one{
+    background-color: black;
+    color: white;
+}
+#two{
+    background-color: yellow;
+}
