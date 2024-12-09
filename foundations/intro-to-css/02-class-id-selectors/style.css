@@ -1,0 +1,15 @@
+.odd-numbered{
+    color: #000;
+    background-color: peachpuff ;
+}
+
+#second{
+    color: blue;
+    background-color: white;
+}
+
+#fourth{
+    color:black;
+    background-color: green;
+    font-weight: bold;
+}
